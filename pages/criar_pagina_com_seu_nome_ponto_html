@@ -1,0 +1,6 @@
+1. Criar um arquivo seu-nome.html com um H1
+2. Adicionar o arquivo ao Stage com git add seu-nome.html
+3. Criar um a versao com o comando gir commit -m "Commit de seu-nome..."
+4. Atualizar repositorio remoto com o comando git push
+5. Atualizar repositorio local para visulalizar os arquivos dos colegas com o comando 
+git pull
